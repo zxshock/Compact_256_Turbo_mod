@@ -1,0 +1,1 @@
+Daughterboard to add support for 2 NemoBus slots. Also optionally puts the printer/centronics port onto #FB (Pentagon standard) to be used with Covox plugs (only D0-D7! Printers untested - likely not working due to BUSY, QUSY, Strobe being absent).
